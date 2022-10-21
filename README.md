@@ -40,5 +40,4 @@ npm install
 
 
 # Preview
-![This is an image](https://raw.githubusercontent.com/LearnCodingEasy/click/main/project/images/Click.jpg)
-
+![This is an image](https://github.com/LearnCodingEasy/clock/blob/main/project/images/Clock.jpg)
