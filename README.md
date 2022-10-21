@@ -1,8 +1,6 @@
 
 
 # clock
-
-# clock
 Awesome clock
 
 # Language
