@@ -1,7 +1,8 @@
 
 
-# clock
-Awesome clock
+# How to Create Realtime Clock using Html, CSS and Javascript
+
+### Awesome clock
 
 # Language
 1. Html
