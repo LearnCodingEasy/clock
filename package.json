@@ -1,0 +1,40 @@
+{
+  "name": "start",
+  "version": "1.0.0",
+  "description": "Clock",
+  "main": "Build-Project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LearnCodingEasy/clock.git"
+  },
+  "author": "Hossam Rashad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LearnCodingEasy/clock/issues"
+  },
+  "homepage": "https://github.com/LearnCodingEasy/clock#readme",
+  "devDependencies": {
+    "@babel/core": "^7.19.6",
+    "@babel/preset-env": "^7.19.4",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-livereload": "^4.0.2",
+    "gulp-notify": "^4.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-uglify": "^3.0.2",
+    "gulp-webp": "^4.0.1",
+    "gulp-zip": "^5.1.0",
+    "sass": "^1.55.0"
+  },
+  "dependencies": {
+    "gulp-pug": "^5.0.0",
+    "static-server": "^2.2.1",
+    "vinyl-ftp": "^0.6.1"
+  }
+}
