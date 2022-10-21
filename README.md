@@ -22,6 +22,7 @@ Awesome clock
 2.
 
 # Font
+* Cairo
 [View](https://fonts.google.com/specimen/Cairo?selection.family=Open+Sans&sidebar.open=true)
 
 # Icon
@@ -39,6 +40,5 @@ npm install
 
 
 # Preview
-![This is an image](https://raw.githubusercontent.com/LearnCodingEasy/click/main/dist/images/Click.webp)
+![This is an image](https://raw.githubusercontent.com/LearnCodingEasy/click/main/project/images/Click.jpg)
 
-*/
