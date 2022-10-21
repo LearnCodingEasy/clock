@@ -26,7 +26,9 @@ function getTheTime() {
     getPmAm;
 }
 
-(function () {})(setInterval(getTheTime, 500));
+(function () {
+  setInterval(getTheTime, 500);
+})();
 
 //
 /*  DARK LIGHT THEME  */
